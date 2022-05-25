@@ -3,4 +3,4 @@
 - 👀 I’m interested in doing high quality code, that is performant, scalable, smart, readable, etc..
 - 🌱 I’m constantly learning something new, just look around and you'll get to know me !
 - 💞️ I’m looking to collaborate on any open source project that could improve people's life (trying to achieve Shokunin here)
-- 📫 I don't use social medias, just pm me on github ! (is that possible ?)
+- 📫 I don't use social medias, just PR this repo !
