@@ -10,13 +10,13 @@ He pronounced this sentence that have changed the world (or at least me)
 
 > The concepts and methods of mathematics are tools for solving real-world problems, not just abstract exercises in logic and deduction.
 
-## I'm a full stack web developer from Bordeaux, France 🍷🇫🇷
+## 🧑‍💻 Otherwise I'm a full stack web developer from Bordeaux, France 🍷🇫🇷
 
 I am a tech enthusiast and I love the process of learning, i find it so satisfying to expand its knowledge and abilities.
 
 💬 Contact me through [my personal website](https://g-boole-01.com) 🌐
 
-## 🧑‍💻 Technologies i like to use
+## ⚡ Technologies i like to use
 
 #### OS
 
