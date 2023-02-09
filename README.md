@@ -4,6 +4,10 @@ _If you speak french 🇫🇷, see my full About page [here](https://g-boole-01.
 
 ## Why gBoole01 ⁉️
 
+
+<a href="https://app.daily.dev/gBoole01"><img align="right" src="https://api.daily.dev/devcards/e2d3495b5c1e41d6a6bacd7d98272527.png?r=o5k" width="400" alt="gBoole01's Dev Card"/></a>
+
+
 My name come from George Boole, the pionner of computer science. 🖥️🧑‍🔬
 
 He pronounced this sentence that have changed the world (or at least me)
