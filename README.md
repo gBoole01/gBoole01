@@ -83,5 +83,5 @@ I am a tech enthusiast and I love the process of learning, i find it so satisfyi
 
 ## 📰 Articles i like to read
 
-<a href="https://app.daily.dev/gBoole01"><img align="right" src="https://api.daily.dev/devcards/e2d3495b5c1e41d6a6bacd7d98272527.png?r=o5k" width="450" alt="gBoole01's Dev Card"/></a>
+<a href="https://app.daily.dev/gBoole01"><img src="https://api.daily.dev/devcards/e2d3495b5c1e41d6a6bacd7d98272527.png?r=o5k" width="400" alt="gBoole01's Dev Card"/></a>
 
