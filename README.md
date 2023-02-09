@@ -4,10 +4,6 @@ _If you speak french 🇫🇷, see my full About page [here](https://g-boole-01.
 
 ## Why gBoole01 ⁉️
 
-
-<a href="https://app.daily.dev/gBoole01"><img align="right" src="https://api.daily.dev/devcards/e2d3495b5c1e41d6a6bacd7d98272527.png?r=o5k" width="400" alt="gBoole01's Dev Card"/></a>
-
-
 My name come from George Boole, the pionner of computer science. 🖥️🧑‍🔬
 
 He pronounced this sentence that have changed the world (or at least me)
@@ -84,3 +80,8 @@ I am a tech enthusiast and I love the process of learning, i find it so satisfyi
 ![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+## 📰 Articles i like to read
+
+<a href="https://app.daily.dev/gBoole01"><img align="right" src="https://api.daily.dev/devcards/e2d3495b5c1e41d6a6bacd7d98272527.png?r=o5k" width="450" alt="gBoole01's Dev Card"/></a>
+
