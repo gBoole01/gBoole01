@@ -4,7 +4,7 @@ _If you speak french 🇫🇷, see my full About page [here](https://g-boole-01.
 
 ## Why gBoole01 ⁉️
 
-My name come from George Boole, one pionner of computer science. 🖥️🧑‍🔬
+My name come from George Boole, one pioneer of computer science. 🖥️🧑‍🔬
 
 He pronounced this sentence that have changed the world (or at least me)
 
